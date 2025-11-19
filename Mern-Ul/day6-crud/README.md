@@ -18,7 +18,6 @@
 
 # Files made
 
-    index.js
     user model and profile model
     user routes and profile routes
     user controller and profile controller
