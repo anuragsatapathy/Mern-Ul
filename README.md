@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Day 8 – Advanced API Patterns + Error Handling + Pagination + Filters
  It has backend and frontend folders. The backend uses Node Express and MongoDB. The frontend uses React.
 
@@ -22,3 +23,6 @@ Controllers store logic
 Models store schema
 Routes store api paths
 Config stores database connection
+=======
+# Updated all the tasks 
+>>>>>>> d4edc6a7b2e519a75fe286614aa38c930300dcc0
